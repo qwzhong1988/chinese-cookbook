@@ -1,0 +1,54 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: Make the most authentic Chinese Food Recipes.
+
+# Theme Secondary subtitle
+susbtitle_secondary: Chinese CookBook provides authentic Chinese Food Recipes, advocating family cooking and healthy lifestyle.
+
+# Footer About Section
+about_footer: Chinese CookBook provides authentic Chinese Food Recipes, advocating family cooking and healthy lifestyle.
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates: true
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: chinese-cookbook
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics: G-9W54EH24R8
+
+# Social Accounts
+twitter_url: https://twitter.com/jaeheng?lang=en
+facebook_url: 
+instagram_url: 
+dribble_url: 
+github_url: 
+googleplus_url:
+behance_url: 
+fivehundredpx_url:
+email_url: mailto:cn.jaeheng@gmail.com
+rss_url:
