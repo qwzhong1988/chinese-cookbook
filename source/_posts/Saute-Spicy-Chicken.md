@@ -4,19 +4,21 @@ cover_index: /images/Saute-Spicy-Chicken/cover_index.jpg
 subtitle: Chicken,Potato,Green Pepper
 ---
 
+Sometimes when I came up with a new recipe impromptu like this and it ended up super delicious and I simply must share with my readers,I realize that naming a dish is really not my strong point, so please forgive me the super generic name.And because I mixed ingredients from various cuisines, it was really hard to even categorize this into a specific cuisine
+
 ![Saute Spicy Chicken](/images/Saute-Spicy-Chicken/cover_index.jpg)
 
 ## Step 0: Preparation of materials
 
 | Material            | Chinese | Usage |
 | ------------------- | ------- | ----- |
-| potato              | 土豆    |
-| green Chinese onion | 大葱    |
-| garlic              | 大蒜    |
-| ginger              | 姜      |
-| Paprika             | 青红椒  |
-| Rock sugar          | 冰糖    |
-| chicken             | 鸡      |
+| potato              | 土豆    | 1
+| green Chinese onion | 大葱    | 1
+| garlic              | 大蒜    | 1
+| ginger              | 姜      | 1 piece
+| Paprika             | 青红椒  | One for each
+| Rock sugar          | 冰糖    | some
+| chicken             | 鸡      | 1000g
 
 1. Potatoes to their own rolling edge cut, so cut out of the potato stew will not rot into a round, referred to as hob cutting method
 2. Scallion can also be used to cut hob, green pepper can also be cut hob
